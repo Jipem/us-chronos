@@ -3,7 +3,7 @@
 // ==UserScript==
 // @name         Chronos
 // @namespace    https://www.jipem.me
-// @version      0.1
+// @version      1.0
 // @description  Tampermonkey - Quelques modifications de l'interface Chronos
 // @author       Jean-Pierre MÉRESSE
 // @match        https://chronos.chu-montpellier.fr/*
