@@ -4,7 +4,7 @@
 // @name         Chronos
 // @namespace    https://www.jipem.me
 // @version      0.1
-// @description  Quelques modifications de l'interface Chronos
+// @description  Tampermonkey - Quelques modifications de l'interface Chronos
 // @author       Jean-Pierre MÉRESSE
 // @match        https://chronos.chu-montpellier.fr/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
