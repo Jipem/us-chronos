@@ -1,5 +1,5 @@
 # tm-chronos
-*Tampermonkey - Quelques modifications de l'interface Chronos*
+*Tampermonkey - Quelques modifications de l'interface Chronos (au CHU de Montpellier)*
 
 **Installation**
 
