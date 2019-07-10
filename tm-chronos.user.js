@@ -7,6 +7,8 @@
 // @description  Tampermonkey - Quelques modifications de l'interface Chronos
 // @author       Jean-Pierre MÉRESSE
 // @match        https://chronos.chu-montpellier.fr/*
+// @match        http://chucrav2.chu-montpellier.priv/*
+// @match        https://chucrav2.chu-montpellier.priv/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
 // ==/UserScript==
 
