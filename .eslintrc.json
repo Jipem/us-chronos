@@ -7,7 +7,8 @@
     "space-before-function-paren": ["off"],
     "quotes": ["off"],
     "eqeqeq": ["off"],
-    "padded-blocks": ["off"]
+    "padded-blocks": ["off"],
+    "semi": ["off"]
   },
   "globals": {
     "GM_getValue": true,
