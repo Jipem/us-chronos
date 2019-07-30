@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/Jipem/tm-chronos.svg?branch=master)](https://travis-ci.org/Jipem/tm-chronos)
+
 # tm-chronos
 *Tampermonkey - Quelques modifications de l'interface Chronos (au CHU de Montpellier)*
 
@@ -10,6 +13,9 @@
 ___________________________________________________
 
 Changelog :
+
+v1.1 (30/07/2019)
+- Fonctionne via Intranet CHU Montpellier
 
 v1.0 (20/01/2019)
 // "Mon Planning"
