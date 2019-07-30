@@ -5,7 +5,8 @@
     "semi": ["error", "always"],
     "require-jsdoc": ["warn"],
     "valid-typeof": ["off"],
-    "no-unused-expressions": ["off"]
+    "no-unused-expressions": ["off"],
+    "indent": "off"
   },
   "globals": {
     "GM_getValue": true,
