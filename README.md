@@ -23,3 +23,15 @@ v1.1 (30/07/2019)
 v1.0 (20/01/2019)
 // "Mon Planning"
 - Affiche les créneaux matin/aprem/nuit de couleurs et alignements différents 
+
+___________________________________________________
+
+**Exemples**
+
+*Avant :*
+
+![Chronos avant](https://github.com/Jipem/tm-chronos/raw/master/images/tm-chronos-avant.png "Avant")
+
+*Après :*
+
+![Chronos après](https://github.com/Jipem/tm-chronos/raw/master/images/tm-chronos-apres.png "Après")
