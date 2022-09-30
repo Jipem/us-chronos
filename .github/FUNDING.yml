@@ -1,8 +1,9 @@
 # These are supported funding model platforms
 
 github: Jipem
+ko_fi: jipem
+custom: https://www.buymeacoffee.com/jipem
+
 #patreon: # Replace with a single Patreon username
 #open_collective: # Replace with a single Open Collective username
 #tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-ko_fi:jipem
-custom: https://www.buymeacoffee.com/jipem
